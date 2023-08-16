@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+background: linear-gradient(  rgb(187, 101, 236) ,rgb(87, 202, 236));
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+.main{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+header{
+    margin-left: 150px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+    opacity: 0.7;
+}
+#input{
+    height: 30px;
+    width: 300px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    padding-left: 20px;
+    
+
+}
+#addbtn{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+   color: white;
+   background-color: rgb(65, 44, 83);
+   font-size: 12px;
+}
+#dltallbtn{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: rgb(50, 107, 88);
+    font-size: 12px;
+
+}
+
